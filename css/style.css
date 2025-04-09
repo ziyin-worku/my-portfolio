@@ -152,7 +152,7 @@ nav ul li a:hover::after {
 }
 .tab-contents ul li span {
   color: #b54769;
-  font-size: 14px;
+  font-size: 16px;
 }
 .tab-contents {
   display: none;
@@ -379,6 +379,7 @@ margin-right: 10px;
 
 .btn.btn2:hover {
   background-color: #0056b3;
+  background-color: #ff815e;
 }
 
 .contact-right form {
